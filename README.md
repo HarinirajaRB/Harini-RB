@@ -32,7 +32,7 @@ Beyond code, I led tech events and communities as a student ambassador — organ
 
 ## Projects
 
-### [MobiComm - Mobile Prepaid Recharge System](https://github.com/yourusername/project-one)](https://github.com/HarinirajaRB/techmMobiComm.git)
+### [MobiComm - Mobile Prepaid Recharge System](https://github.com/HarinirajaRB/techmMobiComm.git)]
 - Built full-stack app using Spring Boot and JavaScript (Fetch API)  
 - Developed REST APIs with JWT-based authentication (User/Admin roles)  
 - Implemented CRUD operations and MySQL integration  
@@ -43,7 +43,7 @@ Beyond code, I led tech events and communities as a student ambassador — organ
 
 ---
 
-### [Albany - Vehicle Service Management](https://github.com/HarinirajaRB/techmAlbany_VehicleService.git)
+### [Albany - Vehicle Service Management](https://github.com/HarinirajaRB/techmAlbany_VehicleService.git)]
 - Developed role-based system (Admin, Customer, Service Advisor) using Spring MVC & Thymeleaf  
 - Built customer module with JWT-based login, profile management, and service booking/tracking  
 - Implemented email notifications for service confirmation and payment updates  
@@ -80,9 +80,9 @@ Beyond code, I led tech events and communities as a student ambassador — organ
 
 ## GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarinirajaRB&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HarinirajaRB&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarinirajaRB&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HarinirajaRB&layout=compact&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarinirajaRB&theme=dark)
 
