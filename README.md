@@ -78,6 +78,13 @@ Beyond code, I led tech events and communities as a student ambassador — organ
 
 ---
 
+## Currently Learning 
+- Backend system design  
+- Docker, Kubernetes, AWS (Basics)  
+- Improving real-world project quality
+
+---
+
 ## GitHub stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HarinirajaRB&show_icons=true&theme=dark)
@@ -90,11 +97,10 @@ Beyond code, I led tech events and communities as a student ambassador — organ
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-rb/)]
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harinirajaporfolio.netlify.app/)]
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/harinirajahrb/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-rb/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harinirajaporfolio.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/harinirajahrb/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinirajahrb@gmail.com)
-
 ---
 
 > Open to full-time backend / full-stack roles — feel free to reach out!
