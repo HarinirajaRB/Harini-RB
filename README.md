@@ -1,6 +1,6 @@
 # Hi there, I'm Harini RB
 
-**Java | Spring Boot | REST APIs | MySQL | DSA on LeetCode | 2 real-time projects | ECE Graduate '25**
+**Java | Spring Boot | REST APIs | MySQL | DSA on LeetCode | Real-time projects | ECE Graduate '25**
 
 📍 Tamil Nadu, India &nbsp;|&nbsp; 🔍 Open to full-time opportunities
 
